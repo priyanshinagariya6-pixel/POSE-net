@@ -22,6 +22,19 @@
                                             ## Real time capture 
                                             ##  Model voice  when you change your posture
                                             ## 
+
+                                            ------------------
+                                            ## 🚀 Projects
+
+### PoseNet - Human Pose Estimation
+
+<img src="images/posenet.png" width="700">
+
+**Technologies:** HTML, CSS, JavaScript, TensorFlow.js
+
+🔗 **Live Demo:** https://your-live-demo-link.com
+
+💻 **Source Code:** https://github.com/priyanshinagariya6-pixel/POSE-net
                                             
 
         
