@@ -1,42 +1,31 @@
-                                                                POSE NET
-                                               
-                                               
-                   A modern Pose net capture the poses of real time estimate model .This project showcase human 
-                                           skeleton and main features of face .                               
+# 🚀 PoseNet - Human Pose Estimation
 
+<img src="image/homepage.png" width="700" alt="PoseNet Homepage">
 
+## 📖 About the Project
+PoseNet is a real-time human pose estimation web application built using TensorFlow.js and ml5.js. It detects human body keypoints through a webcam and visualizes the pose on the screen.
 
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- TensorFlow.js
+- ml5.js
+- p5.js
 
-                 <-------------------------------------------🚀 Live Demo  --------------------------------------------- > 
-   
-                      click here -->> URL is here to see live --> > https://pose-net-sage.vercel.app/
+## ✨ Features
+- 🎥 Real-time webcam pose detection
+- 🦴 Human skeleton tracking
+- 📍 Body keypoint detection
+- 📱 Responsive design
+- ⚡ Fast browser-based inference
 
+## 📸 Project Screenshot
 
+<img src="image/homepage.png" width="700" alt="PoseNet Screenshot">
 
-        -------------------------------------------------------SCREEN SHOT --------------------------------------------------------
-                                                   ## HOME ( image/homepage.png)
+## 🌐 Live Demo
+https://pose-net-sage.vercel.app/
 
-
-        ---------------------------------------------------------- Features ------------------------------------------------------
-
-                                            ## Real time capture 
-                                            ##  Model voice  when you change your posture
-                                            ## 
-
-                                            ------------------
-                                            ## 🚀 Projects
-
-### PoseNet - Human Pose Estimation
-
-<img src="image/homepage.png" width="700">
-
-**Technologies:** HTML, CSS, JavaScript, p5.js
-
-🔗 **Live Demo:** https://pose-net-sage.vercel.app/
-
-💻 **Source Code:** https://github.com/priyanshinagariya6-pixel/POSE-net
-                                            
-
-        
-      
-        
+## 💻 Source Code
+https://github.com/priyanshinagariya6-pixel/POSE-net
