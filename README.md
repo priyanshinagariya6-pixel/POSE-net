@@ -2,25 +2,24 @@
 
 <img src="image/homepage.png" width="700" alt="PoseNet Homepage">
 
-## 📖 About the Project
-PoseNet is a real-time human pose estimation web application built using TensorFlow.js and ml5.js. It detects human body keypoints through a webcam and visualizes the pose on the screen.
+## About the Project
+PoseNet is a real-time human pose estimation web application built using p5.js and ml5.js. It detects human body keypoints through a webcam and visualizes the pose on the screen.
 
-## 🛠️ Technologies Used
+## Technologies Used
 - HTML5
 - CSS3
 - JavaScript
-- TensorFlow.js
 - ml5.js
 - p5.js
 
-## ✨ Features
-- 🎥 Real-time webcam pose detection
-- 🦴 Human skeleton tracking
-- 📍 Body keypoint detection
-- 📱 Responsive design
-- ⚡ Fast browser-based inference
+##  Features
+-  Real-time webcam pose detection
+-  Human skeleton tracking
+-  Body keypoint detection
+-  Responsive design
+-  Fast browser-based inference
 
-## 📸 Project Screenshot
+##  Project Screenshot
 
 <img src="image/homepage.png" width="700" alt="PoseNet Screenshot">
 
