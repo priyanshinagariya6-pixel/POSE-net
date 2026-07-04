@@ -28,11 +28,11 @@
 
 ### PoseNet - Human Pose Estimation
 
-<img src="images/posenet.png" width="700">
+<img src="image/homepage.png" width="700">
 
-**Technologies:** HTML, CSS, JavaScript, TensorFlow.js
+**Technologies:** HTML, CSS, JavaScript, p5.js
 
-🔗 **Live Demo:** https://your-live-demo-link.com
+🔗 **Live Demo:** https://pose-net-sage.vercel.app/
 
 💻 **Source Code:** https://github.com/priyanshinagariya6-pixel/POSE-net
                                             
